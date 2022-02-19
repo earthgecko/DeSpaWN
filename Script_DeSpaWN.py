@@ -79,7 +79,7 @@ kernTrainable = True
 #   Free => learn everything
 mode = 'PerLayer' # QMF PerLayer PerFilter Free
 
-# Initialise wavelet kernel (here db-4)
+# Initialise wavelet kernel (here db-8)
 kernelInit = np.array([-0.010597401785069032, 0.0328830116668852, 0.030841381835560764, -0.18703481171909309,
                            -0.027983769416859854, 0.6308807679298589, 0.7148465705529157, 0.2303778133088965])
 
